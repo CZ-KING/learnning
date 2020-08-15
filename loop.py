@@ -1,4 +1,4 @@
-#测试一下拉取
+#测试一下拉取第二次
 odd_sum = 0
 for number in range(1,1000):
     if number % 2 == 1:
